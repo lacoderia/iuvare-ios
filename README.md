@@ -14,7 +14,7 @@ Iuvare's repository contains a swift project, so `Xcode 11 or later` version is 
 
 Clone iuvare-ios repository
 
-### Running
+## Running
 
 1. Open `iuvare-ios.xcodeproj` file
 2. Build and run
